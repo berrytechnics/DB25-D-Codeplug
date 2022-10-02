@@ -9,7 +9,7 @@
   },
   "Basic parameters": {
     "Radio name": "DB25-D",
-    "DMR ID": 3192213,
+    "DMR ID": 0000000,
     "Language": "English",
     "TimeoutTimer": 6,
     "Busy channel lockout": "Off",
